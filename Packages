@@ -1,12 +1,12 @@
 Package: com.frostzone.helloworld
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: iPwned <dyar.98@hotmail.com>
 Filename: /helloworld.deb
 Size: 2280
-MD5sum: dd8d3eb0e3f2c9048fc9b4e477b9bb0e
-SHA1: 225e3951f6dec2592f24e2b2c7207a4722120ded
-SHA256: ab0cc978d64b17fa350e1f68d058711f238ef929c09100e9475e666fbdb71e96
+MD5sum: b4846ba7695ee0584b8d702f63984511
+SHA1: 7762c8768836cab27b538bbd807f802d49a0ca51
+SHA256: eff9f2f799f133506712e176d17ef1995d0ac457a775eb6d4c2a1bca438700c8
 Section: Tweaks
 Description: A test tweak for helloworld
 Author: iPwned <dyar.98@hotmail.com>
