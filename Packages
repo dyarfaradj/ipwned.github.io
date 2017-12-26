@@ -11,3 +11,17 @@ Section: Tweaks
 Description: A test tweak for helloworld
 Author: iPwned <dyar.98@hotmail.com>
 Name: HelloWorld
+
+Package: com.frostzone.test
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: iPwned <dyar.98@hotmail.com>
+Filename: /test.deb
+Size: 4918
+MD5sum: ba8500d3a4c9b81c66dd20ab68180866
+SHA1: cc1c495b1b8c31af1ee1dfec3a7ecde4553bfbda
+SHA256: 8dbb7d1032044cde7bb0e16bfc1471fe2a644f9ea7ba9404347ef33edd1f3fbf
+Section: Tweaks
+Description: A test tweak for test
+Author: iPwned <dyar.98@hotmail.com>
+Name: Test
