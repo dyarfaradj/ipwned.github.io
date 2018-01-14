@@ -25,3 +25,17 @@ Section: Tweaks
 Description: A test tweak for test
 Author: iPwned <dyar.98@hotmail.com>
 Name: Test
+
+Package: com.frostzone.imoviebox
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: iPwned <dyar.98@hotmail.com>
+Filename: /imoviebox.deb
+Size: 4282
+MD5sum: f5f3c3283c41d68f1a96dab59dabdb5c
+SHA1: ba017ab7e20a3cc35492f227598a4213fe8fc515
+SHA256: a13288a87f05a38b164c6f3531d2c2b5eb29adb0b39e00adf0e466079bedd6b6
+Section: Tweaks
+Description: Addings some goodies for iMovieBox
+Author: iPwned <dyar.98@hotmail.com>
+Name: iMovieBox
