@@ -41,14 +41,14 @@ Author: iPwned <dyar.98@hotmail.com>
 Name: iMovieBox
 
 Package: com.ipwned.liteg
-Version: 0.0.2
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: iPwned <dyar.98@hotmail.com>
-Filename: /grindrlite1.deb
-Size: 3416
-MD5sum: ebf37a8023739a14887267bc3df6f5e5
-SHA1: 12652cf3cd308b2df3be3d51399f43455e4404ee
-SHA256: 34dbfeb04922f70c695a78ce68a93926de3257c8c995fd0663bc2d13e6ab9403
+Filename: /grindrlite.deb
+Size: 3418
+MD5sum: 91730cbe1f9e6fc50a8224897fdae536
+SHA1: 906aaa69b2fab58d57aef6d295b06367dd53b521
+SHA256: 30e43851f91a1836eee44e86108d23b51820a188fb64c432a1a6fcbb7757d1ac
 Section: Tweaks
 Description: Addings some goodies for Grindr
 Author: iPwned <dyar.98@hotmail.com>
