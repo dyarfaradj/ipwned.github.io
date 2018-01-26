@@ -1,31 +1,3 @@
-Package: com.frostzone.helloworld
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: iPwned <dyar.98@hotmail.com>
-Filename: /helloworld.deb
-Size: 4938
-MD5sum: b4846ba7695ee0584b8d702f63984511
-SHA1: 7762c8768836cab27b538bbd807f802d49a0ca51
-SHA256: eff9f2f799f133506712e176d17ef1995d0ac457a775eb6d4c2a1bca438700c8
-Section: Tweaks
-Description: A test tweak for helloworld
-Author: iPwned <dyar.98@hotmail.com>
-Name: HelloWorld
-
-Package: com.frostzone.test
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: iPwned <dyar.98@hotmail.com>
-Filename: /test.deb
-Size: 4918
-MD5sum: ba8500d3a4c9b81c66dd20ab68180866
-SHA1: cc1c495b1b8c31af1ee1dfec3a7ecde4553bfbda
-SHA256: 8dbb7d1032044cde7bb0e16bfc1471fe2a644f9ea7ba9404347ef33edd1f3fbf
-Section: Tweaks
-Description: A test tweak for test
-Author: iPwned <dyar.98@hotmail.com>
-Name: Test
-
 Package: com.frostzone.imoviebox
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -39,17 +11,3 @@ Section: Tweaks
 Description: Addings some goodies for iMovieBox
 Author: iPwned <dyar.98@hotmail.com>
 Name: iMovieBox
-
-Package: com.ipwned.liteg
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: iPwned <dyar.98@hotmail.com>
-Filename: /grindrlite.deb
-Size: 3418
-MD5sum: 91730cbe1f9e6fc50a8224897fdae536
-SHA1: 906aaa69b2fab58d57aef6d295b06367dd53b521
-SHA256: 30e43851f91a1836eee44e86108d23b51820a188fb64c432a1a6fcbb7757d1ac
-Section: Tweaks
-Description: Addings some goodies for Grindr
-Author: iPwned <dyar.98@hotmail.com>
-Name: Grindr Lite
