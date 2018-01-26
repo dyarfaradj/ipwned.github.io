@@ -40,3 +40,17 @@ Section: Tweaks
 Description: iMoveBox, Adds goodies!
 Author: iPwned <dyar.98@hotmail.com>
 Name: iMovieBox
+
+Package: com.frostzone.imoviebox
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: iPwned <dyar.98@hotmail.com>
+Filename: /com.frostzone.imoviebox_0.0.1-8+debug_iphoneos-arm.deb
+Size: 5696
+MD5sum: 9dac1f9b7fa6cab8659509d730c39ed2
+SHA1: 5454106e7c59ced5a095fb3f9c14877a56af45de
+SHA256: 6f46f1a3273227a2fc9b529e5013d3f33c7899fbb5bddb4a803f12b3278fcec0
+Section: Tweaks
+Description: iMoveBox, Adds goodies!
+Author: iPwned <dyar.98@hotmail.com>
+Name: iMovieBox
