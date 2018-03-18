@@ -96,3 +96,17 @@ Section: Tweaks
 Description: NoHangUpOnLock
 Author: iPwned <dyar.98@hotmail.com>
 Name: NoHangUpOnLock
+
+Package: com.frostzone.nohanguponlock
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: iPwned <dyar.98@hotmail.com>
+Filename: /com.frostzone.nohanguponlock_0.0.1-3_iphoneos-arm.deb
+Size: 3444
+MD5sum: afde222655f049f3074c0929511bcdf6
+SHA1: 0bab0a3a9230cdaa7c19309b37375566651b4a30
+SHA256: 5564e1fb66b08a5d9926a8bcfa77f312eac34b976a6d49c6f4f687fb0eee79d6
+Section: Tweaks
+Description: NoHangUpOnLock
+Author: iPwned <dyar.98@hotmail.com>
+Name: NoHangUpOnLock
