@@ -68,3 +68,17 @@ Section: Tweaks
 Description: iMoveBox, Adds goodies!
 Author: iPwned <dyar.98@hotmail.com>
 Name: iMovieBox
+
+Package: com.frostzone.nohanguponlock
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: iPwned <dyar.98@hotmail.com>
+Filename: /com.frostzone.nohanguponlock_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4032
+MD5sum: d3e6799d42d11d33cec71be3c8aa4a77
+SHA1: 8c06b166e8665c7eb824b9b543d8472757378c73
+SHA256: c6b744034ae227c12cdac67623b0025aca402e65a298535eda10201fcbe2cc55
+Section: Tweaks
+Description: NoHangUpOnLock
+Author: iPwned <dyar.98@hotmail.com>
+Name: NoHangUpOnLock
