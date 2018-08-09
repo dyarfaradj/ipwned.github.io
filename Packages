@@ -124,3 +124,45 @@ Section: Tweaks
 Description: NoHangUpOnLock
 Author: iPwned <dyar.98@hotmail.com>
 Name: NoHangUpOnLock
+
+Package: Ex: com.frostzone.helloworld
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: iPwned <test@email.com>
+Filename: /com.bingner.plutil_0.0.2_iphoneos-arm.deb
+Size: 46396
+MD5sum: c0558ef86baf1731aff7a464939a921a
+SHA1: 2656db54bc3e29443be11d0cecee6768ae303ebe
+SHA256: affc68d701a70adc70023388279e71740ea5f94a3fbf3bf7ed38701c971dd9e8
+Section: Ex: Tweaks, Theme
+Description: An awesome mobile substrate tweak
+Author: iPwned <test@email.com>
+Name: Tweak name
+
+Package: Ex: com.frostzone.helloworld
+Version: 0.0.1asd
+Architecture: iphoneos-arm
+Maintainer: iPwned <test@email.com>
+Filename: /com.bingner.plutil_0.0.2_iphoneos-arm.deb
+Size: 46396
+MD5sum: c0558ef86baf1731aff7a464939a921a
+SHA1: 2656db54bc3e29443be11d0cecee6768ae303ebe
+SHA256: affc68d701a70adc70023388279e71740ea5f94a3fbf3bf7ed38701c971dd9e8
+Section: Ex: Tweaks, Themeasd
+Description: An awesome mobile substrate tweak
+Author: iPwned <test@email.com>
+Name: Tweak name
+
+Package: com.frostzone.imoviebox
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: iPwned <dyar.98@hotmail.com>
+Filename: /com.frostzone.imoviebox_0.0.2-1_iphoneos-arm.deb
+Size: 30222
+MD5sum: d7b3c6f00c41df996978aae99ad9dd78
+SHA1: e010543ab2d0667d3c961cfa509de4973bf002a7
+SHA256: 8fbe24beaf22987be655bfe14b2037d28c1178de8212d3781fbba51e2bf03d9c
+Section: Ex: Tweaks, Theme
+Description: An awesome mobile substrate tweak
+Author: iPwned <dyar.98@hotmail.com>
+Name: iMovieBox
