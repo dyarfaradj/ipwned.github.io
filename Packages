@@ -12,3 +12,18 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: U-DESKTOP-39UVRJG\faraDJ
 Name: Betternet ++ by faraDJ
+
+Package: com.frostzone.imoviebox
+Version: 0.0.3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Maintainer: iPwned
+Filename: /com.frostzone.imoviebox_0.0.3-1_iphoneos-arm.deb
+Size: 28614
+MD5sum: 9c2112c4feb07ed0c7f9ed59216f7d86
+SHA1: 9e1a4536e58fd82b7477979b02b1d8007cd3e3b1
+SHA256: 31973021f21df3d5683c9b6e9cbdad267236b82a33a746bcd1a77e5440367a87
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iPwned
+Name: iMovieBox
