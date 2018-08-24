@@ -27,3 +27,18 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: iPwned
 Name: iMovieBox
+
+Package: com.frostzone.reports
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Maintainer: faraDJ
+Filename: /com.frostzone.reports_0.0.1-1_iphoneos-arm.deb
+Size: 3882
+MD5sum: aa34a364dbf122978b5a24abcd46ad30
+SHA1: b292e17093bcaa6d3e1b75e120b00e34a42c68ce
+SHA256: a403408c92112cc7aa60cf3f94cc34a96e1267ad320ad46dd87b9c030c6d9e00
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: faraDJ
+Name: Reports ++ by faraDJ
