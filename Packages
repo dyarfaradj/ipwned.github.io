@@ -57,3 +57,18 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: faraDJ
 Name: FirstVPN ++ by faraDJ
+
+Package: com.frostzone.firstvpn
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Maintainer: faraDJ
+Filename: /com.frostzone.firstvpn_0.0.1-2_iphoneos-arm.deb
+Size: 1986
+MD5sum: 86846413d671b8637c5e35095a24259a
+SHA1: bdcbd2de8ca8f9da35942aff8494daa2ac32c03e
+SHA256: e841bf3e7c696a0dc5cce68508685891768200a56405310074f8706c9f1512d3
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: faraDJ
+Name: FirstVPN ++ by faraDJ
