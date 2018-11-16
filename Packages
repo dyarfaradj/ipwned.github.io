@@ -33,11 +33,11 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Maintainer: U-DESKTOP-39UVRJG\faraDJ
-Filename: /com.frostzone.betternet_0.0.1_iphoneos-arm.deb
-Size: 4044
-MD5sum: 50265331cf0bd9f376c8706b9361bc1c
-SHA1: 12e7913fa14cb9d130b97eb3ef7f5a6ecfa27ece
-SHA256: 1d0ed3e0dc419e769b0ca4ed7430e4dddf80ee3c6015f6f8b515420ac4a3558a
+Filename: /com.frostzone.betternet_0.0.1-4_iphoneos-arm.deb
+Size: 4046
+MD5sum: 394c018ce449e68f701451cc12f8ddbb
+SHA1: 597bdbc778c2a3a641b48472e93f683a777ff8d2
+SHA256: d9550fc185e2e5214cf6ef188506a3aaf325f443276816c7426f7940909f4407
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: U-DESKTOP-39UVRJG\faraDJ
