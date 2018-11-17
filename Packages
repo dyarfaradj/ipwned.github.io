@@ -74,7 +74,7 @@ Author: faraDJ
 Name: FirstVPN ++ by faraDJ
 
 Package: com.frostzone.firstvpn
-Version: 0.0.2
+Version: 0.0.2-1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Maintainer: faraDJ
