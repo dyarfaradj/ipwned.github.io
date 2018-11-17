@@ -46,10 +46,10 @@ Name: Betternet ++ by faraDJ
 Package: com.frostzone.firstvpn
 Version: 0.0.2-2
 Architecture: iphoneos-arm
+Maintainer: faraDJ
 Installed-Size: 117
 Depends: mobilesubstrate
-Maintainer: faraDJ
-Filename: /com.frostzone.firstvpn_0.0.2-2_iphoneos-arm.deb
+Filename: ./packages/com.frostzone.firstvpn_0.0.2-2_iphoneos-arm.deb
 Size: 3682
 MD5sum: 959d42c417c68789920ef88acd7f945e
 SHA1: 80e911c05a51aaed1d7e41486764b86d865d40a9
@@ -58,3 +58,4 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: faraDJ
 Name: FirstVPN ++ by faraDJ
+
