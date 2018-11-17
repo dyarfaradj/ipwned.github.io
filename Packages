@@ -49,7 +49,7 @@ Architecture: iphoneos-arm
 Maintainer: faraDJ
 Installed-Size: 117
 Depends: mobilesubstrate
-Filename: ./packages/com.frostzone.firstvpn_0.0.2-2_iphoneos-arm.deb
+Filename: /com.frostzone.firstvpn_0.0.2-2_iphoneos-arm.deb
 Size: 3682
 MD5sum: 959d42c417c68789920ef88acd7f945e
 SHA1: 80e911c05a51aaed1d7e41486764b86d865d40a9
