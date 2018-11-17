@@ -44,47 +44,17 @@ Author: U-DESKTOP-39UVRJG\faraDJ
 Name: Betternet ++ by faraDJ
 
 Package: com.frostzone.firstvpn
-Version: 0.0.1
+Version: 0.0.2-2
 Architecture: iphoneos-arm
+Installed-Size: 117
 Depends: mobilesubstrate
 Maintainer: faraDJ
-Filename: /com.frostzone.firstvpn_0.0.1-1_iphoneos-arm.deb
-Size: 1986
-MD5sum: c4b0cfe63797109158cdec1cecf8d027
-SHA1: 0d493df510045a31ff179451761d8f968f8102bc
-SHA256: 7f6a29b96fc2a10079c168d1c221380ab9533a65eb302385f70946b59d9d494b
+Filename: /com.frostzone.firstvpn_0.0.2-2_iphoneos-arm.deb
+Size: 3682
+MD5sum: 959d42c417c68789920ef88acd7f945e
+SHA1: 80e911c05a51aaed1d7e41486764b86d865d40a9
+SHA256: fc93c0fbc43e7f55933b835081546f5bc7cfdb57f96f8dc082a80eae0a9538c9
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: faraDJ
 Name: FirstVPN ++ by faraDJ
-
-Package: com.frostzone.firstvpn
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Maintainer: faraDJ
-Filename: /com.frostzone.firstvpn_0.0.1-2_iphoneos-arm.deb
-Size: 1986
-MD5sum: 86846413d671b8637c5e35095a24259a
-SHA1: bdcbd2de8ca8f9da35942aff8494daa2ac32c03e
-SHA256: e841bf3e7c696a0dc5cce68508685891768200a56405310074f8706c9f1512d3
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: faraDJ
-Name: FirstVPN ++ by faraDJ
-
-Package: com.frostzone.firstvpn
-Name: FirstVPN ++ by faraDJ
-Depends: mobilesubstrate
-Version: 0.0.2-1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: faraDJ
-Author: faraDJ
-Section: Tweaks
-Filename: /com.frostzone.firstvpn_0.0.2-1_iphoneos-arm.deb
-Size: 3680
-MD5sum: a96e8e6a6db27d5ef8a72d9e5ebc8bd7
-SHA1: 8f67f0ad41353bf47ad2393b4edb9b672df5df5e
-SHA256: c74a15166d4c9f8633a40461663687e05ff4dad8ff5865fd4dd14c0181036fc2
-
