@@ -62,3 +62,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: faraDJ
 Name: Reports ++ by faraDJ
+
+Package: com.frostzone.anghami
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: faraDJ
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.anghami_0.0.1-1_iphoneos-arm.deb
+Size: 9438
+MD5sum: 163c166f78193b40601d315680052552
+SHA1: a22200b1b602af5a2eb8469abb436eb07c804890
+SHA256: c93230611ea844e3f5741a0cb1dc8ce546a38f463d7e65dcea635a1855e56282
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: faraDJ
+Name: Anghami ++ by faraDJ
