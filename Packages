@@ -78,3 +78,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: faraDJ
 Name: Anghami ++ by faraDJ
+
+Package: com.frostzone.mysugr
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: DamienPwnz <damienpwnsyou@gmail.com>
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.mysugr_0.0.1-2_iphoneos-arm.deb
+Size: 3526
+MD5sum: 9d89ec365c54ae4a729b2b3b4147450b
+SHA1: 9e0102011f6ac387c1af95cb4643273b97d0d4e7
+SHA256: 070cd076e6ebb3b90165843faafc4f5a40fa4156be02f778333fd4ad806f6f19
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: DamienPwnz <damienpwnsyou@gmail.com>
+Name: mySugr ++
