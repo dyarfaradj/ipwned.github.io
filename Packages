@@ -94,3 +94,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: DamienPwnz <damienpwnsyou@gmail.com>
 Name: mySugr ++
+
+Package: com.frostzone.waze
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: iPwned
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.waze_0.0.1-2_iphoneos-arm.deb
+Size: 4128
+MD5sum: e92966a9c5abd81f53981c8524ab1e92
+SHA1: 4d62d23b06435ee0cc76f3d88b2ed98c3220ba6a
+SHA256: 10f6104d1f7afac1cf147eb370a4d381db4ee583bc6c843037a5feae16cf8714
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iPwned
+Name: Waze ++
