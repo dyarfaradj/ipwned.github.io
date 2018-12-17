@@ -126,3 +126,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: iPwned
 Name: Fiverr ++
+
+Package: com.frostzone.boubyan
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: iPwned
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.boubyan_0.0.1-1_iphoneos-arm.deb
+Size: 5694
+MD5sum: 5b0852b6fe6d3def6e35cb6c20c36b7d
+SHA1: bc665b5114d0aefcfa94b1214f788589c24a53ca
+SHA256: 2285ef331de75f1c80a8bcb7cb4df7530059e2bd32aec9ee4bf727b6a553f410
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iPwned
+Name: Boubyan ++
