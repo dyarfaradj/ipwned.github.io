@@ -142,3 +142,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: iPwned
 Name: Boubyan ++
+
+Package: com.frostzone.cotomoviews
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: iPwned
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.cotomoviews_0.0.1-1_iphoneos-arm.deb
+Size: 4338
+MD5sum: 17d9028408294888deefcf8bc4badcc0
+SHA1: 139f088dfb71405ba84002d246481f1c4001ceec
+SHA256: 1d3807986821b7b36b3ac193d14ba3c7036e9745821325c6b91defa6e5a98820
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iPwned
+Name: CotoMovies ++
