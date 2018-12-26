@@ -270,3 +270,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: iPwned
 Name: NoSpeedometer
+
+Package: com.frostzone.luxyliveimage
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: iPwned
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.luxyliveimage_0.0.1-1_iphoneos-arm.deb
+Size: 3874
+MD5sum: db45841ecba02b20978cf679b4c8d3b4
+SHA1: 30079791016bfeeddcb54163162aafe01c1ce843
+SHA256: beb163e4f8165cb6507eb284a8377d6e0313737c3b792b8f778a8196292f19e4
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iPwned
+Name: LuxyLiveImage
