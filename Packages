@@ -206,3 +206,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: iPwned
 Name: NoSpeedometer
+
+Package: com.frostzone.nospeedometer
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Maintainer: iPwned
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.nospeedometer_0.0.1-4_iphoneos-arm.deb
+Size: 3476
+MD5sum: 6c56db45403d8d6dc389e2413d6ee8ef
+SHA1: a62d00116cc53f43748363ee2dbae5f27ac67743
+SHA256: f2abb758c6bf2d0cc8b4f3b1c3f27de1ae31545b42f6cae991c663164665736e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iPwned
+Name: NoSpeedometer
