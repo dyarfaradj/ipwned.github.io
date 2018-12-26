@@ -286,3 +286,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: iPwned
 Name: LuxyLiveImage
+
+Package: com.frostzone.luxyliveimage
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: iPwned
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.luxyliveimage_0.0.1-2_iphoneos-arm.deb
+Size: 4126
+MD5sum: 75fdb3e2b0332c895936465417ac501d
+SHA1: c7cfd49a26fa53c29f015a52f0a70ca89c26c5d8
+SHA256: 677c5f4f6afa35b0433ff9507a32486b6a3942c285342a979b23b1e2fe5025d3
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iPwned
+Name: LuxyLiveImage
