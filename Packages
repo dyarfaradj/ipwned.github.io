@@ -318,3 +318,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: iPwned
 Name: LuxyLiveImage
+
+Package: com.frostzone.santanderdestroyer
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: iPwned
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.santanderdestroyer_0.0.1-1_iphoneos-arm.deb
+Size: 6036
+MD5sum: 41d6fb41018cead9a8ffc8c2941c1972
+SHA1: c39f7196efa9b2296e50ee17919c0040b445ab34
+SHA256: 54566596d54066eed0908bcf9942fda49b1138ec6cfe76f9af5f0f0b56d4c623
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iPwned
+Name: SantanderDestroyer
