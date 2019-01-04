@@ -350,3 +350,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: iPwned
 Name: SantanderDestroyer
+
+Package: com.frostzone.carrot
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: iPwned
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.carrot_0.0.1-1_iphoneos-arm.deb
+Size: 5056
+MD5sum: af616f18fc62def655fb04670afa3f90
+SHA1: d2c5d69990ac7831e14a9bacda36ac69258a0cce
+SHA256: 79b4fb6c4feab4bab40804873e9ff5dde898f76643ce57fb2e55855ac2aea122
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iPwned
+Name: Carrot ++
