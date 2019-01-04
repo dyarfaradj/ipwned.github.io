@@ -382,3 +382,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: iPwned
 Name: Carrot ++
+
+Package: com.frostzone.carrot
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: iPwned
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.carrot_0.0.1-3_iphoneos-arm.deb
+Size: 5130
+MD5sum: 2dfe5e73560f33d23dcf0fb6dabe12a2
+SHA1: 970753faeb589667bfd9a6f366985442e641415d
+SHA256: 508da6aa1b8d9cc2ac0cd2853689ecd1bf73e69b3b99afd2c50817a8302a1993
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iPwned
+Name: Carrot ++
