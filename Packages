@@ -446,3 +446,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: iPwned
 Name: UL ++
+
+Package: com.frostzone.ulplusplus
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Maintainer: iPwned
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.ulplusplus_0.0.1-4_iphoneos-arm.deb
+Size: 4326
+MD5sum: d5de38d9488007256a387b16a9cbf6bf
+SHA1: 80f6bc8ffd0cbc48c3bd25637cd738081453fa87
+SHA256: 619f54a759e20a81369f71b7df478e4670f0efa2d655346add5724d259c88acb
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iPwned
+Name: UL ++
