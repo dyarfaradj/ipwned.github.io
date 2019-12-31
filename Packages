@@ -782,3 +782,19 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: iPwned
 Name: AudioBalancer
+
+Package: com.frostzone.audiobalancer
+Version: 0.0.1-12
+Architecture: iphoneos-arm
+Maintainer: iPwned
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: /com.frostzone.audiobalancer_0.0.1-12_iphoneos-arm.deb
+Size: 8754
+MD5sum: 1ef8346313dcc1a77b85c6c218e462b9
+SHA1: d5f3e398c35f8f3d26742d4b2120266031837d79
+SHA256: 045afd95a5fe7f746d53c6f24e1cf9c41782904f8a6ea8b28ecbfb6953a2bbdc
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iPwned
+Name: AudioBalancer
